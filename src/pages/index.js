@@ -1,3 +1,3 @@
 import React from 'react'
 
-export default () => <img src="/test.png" />
+export default () => <div>Hello World</div>
